@@ -6,4 +6,7 @@ Stock Market analysis
 4. Search engine to make use of information retrieval techniques for searching.
 5. Make a Dashboard to produce comprehensive reports and compile the findings.
 This project contains (Sentiment Anlysis, preduction model,Search Engine Module, Visualization,
-Comoarison module)
+Comoarison modle)
+
+I have uploaded both ipynb file as well as py file.
+done coding in colab hence ipynb file.
